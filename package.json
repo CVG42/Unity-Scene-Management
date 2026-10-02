@@ -1,0 +1,18 @@
+{
+  "name": "com.cvg42.scenreference",
+  "version": "1.0.0",
+  "displayName": "Scene Management",
+  "description": "Scene Management utilities, including a demo and scene serialization.",
+  "unity": "2022.1",
+  "samples": [
+    {
+      "displayName": "Demo Scenes",
+      "description": "Example scenes showing how to use this package.",
+      "path": "Samples~/DemoScenes"
+    }
+  ],	
+  "author": {
+    "name": "CVG42",
+    "url": "https://cvg42.com"
+  }
+}
