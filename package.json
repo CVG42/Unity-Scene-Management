@@ -6,7 +6,7 @@
   "unity": "2022.1",
   "samples": [
     {
-      "displayName": "Demo Scenes",
+      "displayName": "Demo",
       "description": "Example scenes showing how to use this package.",
       "path": "Samples~/DemoScenes"
     }
