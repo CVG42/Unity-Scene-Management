@@ -15,6 +15,9 @@ If you want to try the demo, which includes a Load Scene Manager that handles bo
 
 <img width="451" height="236" alt="Screenshot 2026-10-01 212827" src="https://github.com/user-attachments/assets/4ae40e93-0a33-4e47-85f4-98e492237b79" />
 
+> [!IMPORTANT]  
+> Make sure to add the scenes included in the *Demo* in the **Scene List** from **Build Profiles** in Unity.
+
 ### Dependencies
 In order to try the *Demo* make sure to install the following dependencies:
 - [UniTask by Cysharp](https://github.com/Cysharp/UniTask)
