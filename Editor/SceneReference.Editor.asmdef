@@ -1,0 +1,18 @@
+{
+    "name": "SceneReference.Editor",
+    "rootNamespace": "CVG42.SceneManagement.SceneReference",
+    "references": [
+        "GUID:c095fabccd55e6646bd56252f4bf06d4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
